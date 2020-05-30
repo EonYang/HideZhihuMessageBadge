@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "隐藏知乎私信红色角标",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "As the name indicates, I hide the red message badge on Zhihu.com",
   "content_scripts": [{
     "js": ["index.js"],
